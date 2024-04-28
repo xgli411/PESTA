@@ -10,4 +10,4 @@ Here's how we improved the specific network structure of YOLOv7Pose
 ## Fall Detection Demo
 Below is a video example of our method being tested on the fall detection dataset. It includes various poses like sitting, squatting, bending, walking etc. It also contains videos where no fall has occurred.
 
-
+！[image](https://github.com/xgli411/PESTA/blob/main/test1.gif)
