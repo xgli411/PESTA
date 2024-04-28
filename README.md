@@ -12,3 +12,4 @@ Below is a video example of our method being tested on a fall detection dataset.
 
 ![image](https://github.com/xgli411/PESTA/blob/main/test1.gif)
 ![image](https://github.com/xgli411/PESTA/blob/main/test2.gif)
+![image](https://github.com/xgli411/PESTA/blob/main/test3.gif)
